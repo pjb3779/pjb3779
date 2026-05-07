@@ -1,4 +1,8 @@
-<img width="1154" height="588" alt="image" src="https://github.com/user-attachments/assets/e8bdb922-a38a-4a28-8ba9-33494ce0c239" /><h1 align="center">Skills</h1>
+<h1 align="center">Skills</h1>
+
+<p align="center">
+  Clicking on the icon will link you to the GitHub repository or related link that utilizes the respective technology.
+</p>
 
 <hr/>
 
