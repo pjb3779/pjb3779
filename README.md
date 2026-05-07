@@ -1,11 +1,5 @@
 <h1 align="center">Skills</h1>
 
-<p align="center">
-  Clicking on the icon will link you to the GitHub repository or related link that utilizes the respective technology.
-</p>
-
-<hr/>
-
 <h2 align="center">Language</h2>
 
 <p align="center">
