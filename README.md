@@ -1,12 +1,8 @@
-# Skills
+<img width="1154" height="588" alt="image" src="https://github.com/user-attachments/assets/e8bdb922-a38a-4a28-8ba9-33494ce0c239" /><h1 align="center">Skills</h1>
 
-<p align="center">
-  Clicking on the icon will link you to the GitHub repository or related link that utilizes the respective technology.
-</p>
+<hr/>
 
----
-
-## Language
+<h2 align="center">Language</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -15,9 +11,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
+<br/>
 
-## Frontend
+<h2 align="center">Frontend</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,9 +24,9 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
----
+<br/>
 
-## Backend
+<h2 align="center">Backend</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -43,9 +39,9 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
----
+<br/>
 
-## Infra / DevOps
+<h2 align="center">Infra / DevOps</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
